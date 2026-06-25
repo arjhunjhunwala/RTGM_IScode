@@ -103,7 +103,7 @@ with st.sidebar:
     st.caption(f"City lookup source: {city_source}")
     st.divider()
     st.caption(
-        "Developed by Aditya Jhunjhunwala (arj@purdue.edu).\n\n"
+        "Developed by Aditya Jhunjhunwala.\n\n"
         "Hazard data provided by Prof. STG Raghukanth (IIT Madras).\n\n"
         "For details on RTGM calculations, please refer Luco, N., "
         "Ellingwood, B. R., Hamburger, R. O., Hooper, J. D., "
